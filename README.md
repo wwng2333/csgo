@@ -1,6 +1,14 @@
 # csgo
 My csgo in-game configure.
-
+# Startup argc
+```
+-console -novid -tickrate 128 -allow_third_party_software
+```
+# Config position
+```
+C:\Program Files (x86)\Steam\userdata\_YOUR_STEAMID3_\730\local\cfg
+```
+# LICENSE
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
