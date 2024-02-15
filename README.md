@@ -2,7 +2,7 @@
 My csgo in-game configure.
 # Startup argc
 ```
--console -novid -tickrate 128 -allow_third_party_software
+-high -port 27016 -worldwide -allow_third_party_software
 ```
 # Config position
 ```
